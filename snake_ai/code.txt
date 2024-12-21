@@ -1,0 +1,21 @@
+snake_ai/
+├── __init__.py
+├── game/
+│   ├── __init__.py
+│   ├── game.py
+│   ├── snake.py
+│   ├── food.py
+│   ├── utils.py
+│   └── constants.py
+├── model/
+│   ├── __init__.py
+│   ├── dqn_model.py
+│   ├── agent.py
+│   ├── memory.py
+│   └── config.py
+├── train/
+│   ├── __init__.py
+│   ├── trainer.py
+│   └── eval.py
+├── main.py
+└── requirements.txt
